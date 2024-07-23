@@ -17,8 +17,8 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 🎓 Education
 - ⁠*M.Tech Dual Degree, Biotechnology* | IIT Kharagpur (Expected 2026)
-- *Higher Secondary (XII)* | FIITJEE World School (2021)
-- ⁠*Secondary (X)* | FIITJEE World School (2018)
+- *Higher Secondary (XII)* |            FIITJEE World School (2021)
+- ⁠*Secondary (X)* |                    FIITJEE World School (2018)
 
 ## 💼 Work Experience
 ### Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)
@@ -33,17 +33,17 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ### EY | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)
 -⁠  ⁠Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
--⁠  ⁠Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
+-⁠  Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
 
 ### Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)
--⁠  ⁠Utilized 2D fluorescent images to categorize ovarian follicle stages.
--⁠  ⁠Analyzed images to measure cellular thickness and identify growth phases.
+-⁠  Utilized 2D fluorescent images to categorize ovarian follicle stages.
+-⁠  Analyzed images to measure cellular thickness and identify growth phases.
 
 ## 🛠️ Projects
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
 -⁠  ⁠Built a chatbot with AWS Bedrock and AWS Lambda.
--⁠  ⁠Achieved successful output of up to 20 tokens, encountering challenges with higher token limits.
--⁠  ⁠Implemented a web adapter layer for streaming responses.
+-⁠  Achieved successful output of up to 20 tokens, encountering challenges with higher token limits.
+-⁠  Implemented a web adapter layer for streaming responses.
 
 ### Stock Price Prediction LSTM Model | Self Project (Jun '23 - Jul '23)
 -⁠  ⁠Gathered Apple stock price data (2018-2023) for LSTM training.
