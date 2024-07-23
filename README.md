@@ -1,7 +1,8 @@
-# data-science-portfolio
+# Hi There !
 
 ### education
 IIT Kharagpur (B.TECH + M.TECH)
+
 
 ### work experience
 - working at tech mahindra for AI research (AI research intern)
