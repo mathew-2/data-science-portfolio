@@ -71,8 +71,8 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 🔗 Let's Connect!
 -⁠  ⁠[GitHub](https://github.com/mathew-2)
--⁠  ⁠[LinkedIn](https://www.linkedin.com/in/mathewmanoj)
--⁠  ⁠[Twitter](https://twitter.com/mathewmanoj)
--⁠  ⁠[Personal Blog](https://medium.com/@mathewmanoj)
+-⁠  ⁠[LinkedIn](https://www.linkedin.com/in/mathew-manoj)
+-⁠  ⁠[Twitter](https://x.com/mattdraco13)
+
 
 Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or have any questions!
