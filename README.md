@@ -9,11 +9,11 @@ Hi, I'm Mathew Manoj! I'm a tech enthusiast currently studying Biotechnology at 
 I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and EY, where I worked on exciting projects like sales prediction models and knowledge mining chatbots. Looking ahead, I'm excited to explore how AI can be used on devices like Raspberry Pi and continue working on innovative biotech solutions. My goal is to create impactful AI projects that can help make a difference in the world.
 
 ## 🚀 Technical Skills
-•⁠  ⁠*Languages:* Python, C++
-•⁠  ⁠*Libraries/Frameworks:* TensorFlow, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Scipy
-•⁠  ⁠*Developer Tools:* Visual Studio Code, Google Colab, Jupyter Notebook, MATLAB, XCode
-•⁠  ⁠*Cloud Services:* AWS (including AWS Bedrock)
-•⁠  ⁠*Other Tools:* Git
+- *Languages:* Python, C++
+- ⁠*Libraries/Frameworks:* TensorFlow, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Scipy
+- ⁠*Developer Tools:* Visual Studio Code, Google Colab, Jupyter Notebook, MATLAB, XCode
+- *Cloud Services:* AWS (including AWS Bedrock)
+- *Other Tools:* Git
 
 ## 🎓 Education
 - ⁠*M.Tech Dual Degree, Biotechnology* | IIT Kharagpur (Expected 2026)
@@ -27,12 +27,12 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 -  ⁠Engaging in foundational AI research for scalable AI systems.
 
 ### Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)
--  ⁠Enhanced a Knowledge Mining chatbot with AWS services.
--⁠  ⁠Developed a chatbot using the Amazon Titan model for an AWS workshop.
--⁠  ⁠Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.
+-  Enhanced a Knowledge Mining chatbot with AWS services.
+-⁠  Developed a chatbot using the Amazon Titan model for an AWS workshop.
+-⁠  Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.
 
-### EY | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)
--⁠  ⁠Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
+### Ersnt and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)
+-⁠  Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
 -⁠  Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
 
 ### Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)
