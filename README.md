@@ -34,7 +34,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 <br>
 
-**Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)**
+**Cellstrat**  
+*Data Science Intern*  
+*Bangalore (Jan '24 - Mar '24)*
 
 ![Cellstrat](assets/img/Cellstrat.png)  
 
@@ -44,7 +46,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 <br>
 
-**Ernst and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)**
+**Ernst and Young (EY)**  
+*Data Analytics Intern*  
+*Bangalore (Jun '23 - Jul '23)*
 
 ![Ernst and Young (EY)](assets/img/EY.jpeg)  
 
@@ -53,7 +57,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 <br>
 
-**Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)**
+**Follicular Stage Identification Project**  
+*Computer Vision Research Intern*  
+*IIT Kharagpur (May '23 - Present)*
 
 ![Follicular Stage Identification Project](assets/img/SMST.png)  
 
