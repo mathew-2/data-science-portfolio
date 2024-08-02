@@ -1,4 +1,5 @@
 title: Mathew Manoj
-
-#description :Hi there my name is Mathew Manoj
+logo: /assets/img/logo.jpeg
+description: Data Science Enthusiast !
+show_downloads: false
 theme : jekyll-theme-minimal
