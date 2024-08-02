@@ -19,24 +19,24 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 - **Secondary (X)** | FIITJEE World School (2018)
 
 ## 💼 Work Experience
-![Profile Image](assets/img/logo.jpeg)
+![Profile Image](assets/img/Makers_lab.png)
 **Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)**
-- Developing Explainable AI (XAI) solutions for complex ML models.
+- Doing research on deploying LLM models onto edge devices like raspberry pi.
 - Contributing to Project Indus, building LLMs for Indian languages.
 - Engaging in foundational AI research for scalable AI systems.
 
-![Profile Image](assets/img/logo.jpeg)
+![Profile Image](assets/img/Cellstrat.png)
 **Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)**
 - Enhanced a Knowledge Mining chatbot with AWS services.
 - Developed a chatbot using the Amazon Titan model for an AWS workshop.
 - Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.
 
-![Profile Image](assets/img/logo.jpeg)
+![Profile Image](assets/img/EY.jpeg)
 **Ernst and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)**
 - Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
 - Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
 
-![Profile Image](assets/img/logo.jpeg)
+![Profile Image](assets/img/SMST.png)
 **Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)**
 - Utilized 2D fluorescent images to categorize ovarian follicle stages.
 - Analyzed images to measure cellular thickness and identify growth phases.
