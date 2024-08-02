@@ -18,31 +18,57 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 💼 Work Experience
 
-**Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)**
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)
-- Doing research on deploying LLM models onto edge devices like raspberry pi.
-- Contributing to Project Indus, building LLMs for Indian languages.
-- Engaging in foundational AI research for scalable AI systems.
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/Makers_lab.png" alt="Tech Mahindra Maker's Lab" width="100" height="100">
+  <div style="margin-left: 10px;">
+    <strong>Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)</strong>
+    <ul>
+      <li>Doing research on deploying LLM models onto edge devices like raspberry pi.</li>
+      <li>Contributing to Project Indus, building LLMs for Indian languages.</li>
+      <li>Engaging in foundational AI research for scalable AI systems.</li>
+    </ul>
+  </div>
+</div>
 
+<br>
 
-**Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)**
-![Cellstrat](assets/img/Cellstrat.png)
-- Enhanced a Knowledge Mining chatbot with AWS services.
-- Developed a chatbot using the Amazon Titan model for an AWS workshop.
-- Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/Cellstrat.png" alt="Cellstrat" width="100" height="100">
+  <div style="margin-left: 10px;">
+    <strong>Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)</strong>
+    <ul>
+      <li>Enhanced a Knowledge Mining chatbot with AWS services.</li>
+      <li>Developed a chatbot using the Amazon Titan model for an AWS workshop.</li>
+      <li>Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.</li>
+    </ul>
+  </div>
+</div>
 
+<br>
 
-**Ernst and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)**
-![Ernst and Young (EY)](assets/img/EY.jpeg)
-- Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
-- Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/EY.jpeg" alt="Ernst and Young (EY)" width="100" height="100">
+  <div style="margin-left: 10px;">
+    <strong>Ernst and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)</strong>
+    <ul>
+      <li>Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.</li>
+      <li>Implemented LeakyReLU activation and MSE loss for high prediction accuracy.</li>
+    </ul>
+  </div>
+</div>
 
+<br>
 
-**Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)**
-![Follicular Stage Identification Project](assets/img/SMST.png)
-- Utilized 2D fluorescent images to categorize ovarian follicle stages.
-- Analyzed images to measure cellular thickness and identify growth phases.
-
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/SMST.png" alt="Follicular Stage Identification Project" width="100" height="100">
+  <div style="margin-left: 10px;">
+    <strong>Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)</strong>
+    <ul>
+      <li>Utilized 2D fluorescent images to categorize ovarian follicle stages.</li>
+      <li>Analyzed images to measure cellular thickness and identify growth phases.</li>
+    </ul>
+  </div>
+</div>
 
 ## 🛠️ Projects
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
