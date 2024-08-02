@@ -22,10 +22,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 💼 Work Experience
 
-
 **Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)**
 
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)
+![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
 
 - Doing research on deploying LLM models onto edge devices like raspberry pi.
 - Contributing to Project Indus, building LLMs for Indian languages.
@@ -33,10 +32,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 <br>
 
-
 **Cellstrat | Data Science Intern | Bangalore (Jan '24 - Mar '24)**
 
-![Cellstrat](assets/img/Cellstrat.png)
+![Cellstrat](assets/img/Cellstrat.png)  
 
 - Enhanced a Knowledge Mining chatbot with AWS services.
 - Developed a chatbot using the Amazon Titan model for an AWS workshop.
@@ -46,7 +44,7 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 **Ernst and Young (EY) | Data Analytics Intern | Bangalore (Jun '23 - Jul '23)**
 
-![Ernst and Young (EY)](assets/img/EY.jpeg)
+![Ernst and Young (EY)](assets/img/EY.jpeg)  
 
 - Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
 - Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
@@ -55,7 +53,7 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 **Follicular Stage Identification Project | Computer Vision Research Intern | IIT Kharagpur (May '23 - Present)**
 
-![Follicular Stage Identification Project](assets/img/SMST.png)
+![Follicular Stage Identification Project](assets/img/SMST.png)  
 
 - Utilized 2D fluorescent images to categorize ovarian follicle stages.
 - Analyzed images to measure cellular thickness and identify growth phases.
@@ -75,7 +73,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 ### K-Means Clustering on Sales SAP Data | Self Project (May '23 - Jun '23)
 - Conducted RFM analysis on sales data using K-Means clustering.
 - Identified an optimal cluster count of 4 with silhouette scores.
+
 ### [More Projects](projects/README.md)
+
 <br>
 
 ## 🏆 Competitions & Conferences
@@ -89,8 +89,11 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 🏅 Positions of Responsibility
 ![KGTS](assets/img/kgts.png)
+
 ### Academic Head | Kharagpur Game Theory Society | IIT Kharagpur (Aug '23 - Apr '24)
 - Organized workshops on game theory concepts and coordinated the flagship event Stratathon.
+
+<br>
 
 ## ⚽ Extracurricular Activities
 - **Football:** Active member of the bronze-winning football team of Vidyasagar Hall of Residence.
