@@ -11,10 +11,14 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 - **Cloud Services:** AWS (including AWS Bedrock)
 - **Other Tools:** Git
 
+<br>
+
 ## 🎓 Education
 - **M.Tech Dual Degree, Biotechnology** | IIT Kharagpur (Expected 2026)
 - **Higher Secondary (XII)** | FIITJEE World School (2021)
 - **Secondary (X)** | FIITJEE World School (2018)
+
+<br>
 
 ## 💼 Work Experience
 
@@ -46,6 +50,8 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 - Utilized 2D fluorescent images to categorize ovarian follicle stages.
 - Analyzed images to measure cellular thickness and identify growth phases.
 
+<br>
+
 ## 🛠️ Projects
 ### [More Projects](projects/README.md)
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
@@ -61,6 +67,8 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 - Conducted RFM analysis on sales data using K-Means clustering.
 - Identified an optimal cluster count of 4 with silhouette scores.
 
+<br>
+
 ## 🏆 Competitions & Conferences
 ### Unit Liability Prediction Model | Inter Hall Data Analytics Competition (Feb '23 - Mar '23)
 - Developed a model predicting manufacturing unit safety with 97% accuracy, securing 1st place in accuracy.
@@ -68,14 +76,20 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 ### Construction of Fintech Website | Inter Hall Opensoft Competition (Mar '23)
 - Developed a SaaS platform for financial services using React.js, Node.js, and MongoDB.
 
+<br>
+
 ## 🏅 Positions of Responsibility
 ### Academic Head | Kharagpur Game Theory Society | IIT Kharagpur (Aug '23 - Apr '24)
 - Organized workshops on game theory concepts and coordinated the flagship event Stratathon.
+
+<br>
 
 ## ⚽ Extracurricular Activities
 - **Football:** Active member of the bronze-winning football team of Vidyasagar Hall of Residence.
 - **Swimming:** Participant in events with the Technology Aquatics Society at IIT Kharagpur.
 - **Cultural:** Organized Pongal celebrations for IIT Kharagpur Tamil Sangam, attracting over 200 attendees.
+
+<br>
 
 ## 🔗 Let's Connect!
 - [GitHub](https://github.com/mathew-2)
