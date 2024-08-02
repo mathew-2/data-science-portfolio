@@ -24,6 +24,7 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)
 **Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)**
+
 - Doing research on deploying LLM models onto edge devices like raspberry pi.
 - Contributing to Project Indus, building LLMs for Indian languages.
 - Engaging in foundational AI research for scalable AI systems.
@@ -53,7 +54,6 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 <br>
 
 ## 🛠️ Projects
-### [More Projects](projects/README.md)
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
 - Built a chatbot with AWS Bedrock and AWS Lambda.
 - Achieved successful output of up to 20 tokens, encountering challenges with higher token limits.
@@ -66,7 +66,7 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 ### K-Means Clustering on Sales SAP Data | Self Project (May '23 - Jun '23)
 - Conducted RFM analysis on sales data using K-Means clustering.
 - Identified an optimal cluster count of 4 with silhouette scores.
-
+### [More Projects](projects/README.md)
 <br>
 
 ## 🏆 Competitions & Conferences
@@ -79,17 +79,14 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 <br>
 
 ## 🏅 Positions of Responsibility
+![KGTS](assets/img/kgts.png)
 ### Academic Head | Kharagpur Game Theory Society | IIT Kharagpur (Aug '23 - Apr '24)
 - Organized workshops on game theory concepts and coordinated the flagship event Stratathon.
-
-<br>
 
 ## ⚽ Extracurricular Activities
 - **Football:** Active member of the bronze-winning football team of Vidyasagar Hall of Residence.
 - **Swimming:** Participant in events with the Technology Aquatics Society at IIT Kharagpur.
 - **Cultural:** Organized Pongal celebrations for IIT Kharagpur Tamil Sangam, attracting over 200 attendees.
-
-<br>
 
 ## 🔗 Let's Connect!
 - [GitHub](https://github.com/mathew-2)
