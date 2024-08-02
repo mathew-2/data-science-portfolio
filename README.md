@@ -22,7 +22,9 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 ## 💼 Work Experience
 
-**Tech Mahindra Maker's Lab | AI Research Intern | Pune (Jun '24 - Present)**
+**Tech Mahindra Maker's Lab**  
+*AI Research Intern*  
+*Pune (Jun '24 - Present)*
 
 ![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
 
