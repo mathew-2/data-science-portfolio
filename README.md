@@ -36,7 +36,7 @@ I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and
 
 **Cellstrat**  
 *Data Science Intern*  
-*Bangalore (Jan '24 - Mar '24)*
+*Bangalore (Jan '24 - Present)*
 
 ![Cellstrat](assets/img/Cellstrat.png)  
 
