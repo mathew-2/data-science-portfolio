@@ -1,8 +1,6 @@
 # Mathew Manoj - Data Scientist & AI Enthusiast 🌟
 
-Hi, I'm Mathew Manoj! I'm a tech enthusiast currently studying Biotechnology at IIT Kharagpur. My journey started with a love for both biotech and tech, and I've had a blast combining these fields. From building chatbots with AWS to predicting stock prices with machine learning, I've enjoyed every step of the way.
-
-I've interned at some cool places like Tech Mahindra Maker's Lab, Cellstrat, and EY, where I worked on exciting projects like sales prediction models and knowledge mining chatbots. Looking ahead, I'm excited to explore how AI can be used on devices like Raspberry Pi and continue working on innovative biotech solutions. My goal is to create impactful AI projects that can help make a difference in the world.
+Hi there! I’m Mathew Manoj, a Biotechnology student at IIT Kharagpur with a big interest in tech. I love mixing tech with my studies through projects like building chatbots with AWS and predicting stock prices using LSTM models. My internships at Tech Mahindra Maker's Lab, Cellstrat, and EY have given me hands-on experience in AI research and development. I’m excited about exploring AI on edge devices and discovering new tech solutions. Take a look at what I’ve been working on, and feel free to reach out if you’d like to chat!
 
 ## 🚀 Technical Skills
 - **Languages:** Python, C++
