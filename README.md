@@ -1,6 +1,8 @@
 # Mathew Manoj - Data Scientist & AI Enthusiast 🌟
 
-Hi there! I’m Mathew Manoj, a Biotechnology student at IIT Kharagpur with a big interest in tech. I love mixing tech with my studies through projects like building chatbots with AWS and predicting stock prices using LSTM models. My internships at Tech Mahindra Maker's Lab, Cellstrat, and EY have given me hands-on experience in AI research and development. I’m excited about exploring AI on edge devices and discovering new tech solutions. Take a look at what I’ve been working on, and feel free to reach out if you’d like to chat!
+Welcome! I’m Mathew Manoj, currently pursuing my M.Tech Dual Degree in Biotechnology at IIT Kharagpur. My passion lies in blending biotechnology with cutting-edge AI and data science technologies. From building advanced chatbots to predicting stock prices with LSTM models, I’m constantly exploring how AI can solve real-world problems. With hands-on experience from internships at **Tech Mahindra Maker's Lab**, **Cellstrat**, and **Ernst & Young**, I’m particularly excited about exploring AI for edge devices and scalable AI solutions.
+
+Take a look at my work, and feel free to connect if you're interested in collaborating!
 
 ## 🚀 Technical Skills
 - **Languages:** Python, C++
@@ -67,18 +69,32 @@ Hi there! I’m Mathew Manoj, a Biotechnology student at IIT Kharagpur with a bi
 <br>
 
 ## 🛠️ Projects
+
+### PubMed Paper Scraper | Self Project (July '24)
+- A simple Streamlit web application that allows users to search for academic papers on PubMed based on a specific topic.
+- Retrieves a list of PubMed IDs (PMIDs) for relevant papers and displays details such as the title, journal, publication date, and abstract for each paper.
+- **Features**:
+  - **Search by Topic**: Input a topic (e.g., "machine learning in healthcare") to find relevant academic papers.
+  - **Rate Limiting**: Adheres to PubMed API usage policies through rate limiting.
+  - **Error Handling**: Gracefully handles HTTP and URL errors, providing meaningful feedback to the user.
+  - **Paper Details**: Displays paper titles, journals, publication dates, and abstracts with links to PubMed for further reading.
+  
+- [PubMed Paper Scraper](https://pubmed-paper-scraper.streamlit.app/)
+
+---
+
+### PDF to HTML Converter | Self Project (August '24)
+- A web application that converts a PDF resume downloaded from LinkedIn into a professional HTML resume using OpenAI's API.
+- Built with **Streamlit** for the user interface, **PyPDF2** for PDF text extraction, and **OpenAI API** for HTML generation.
+  
+- [PDF to HTML Converter](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
+
+---
+
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
 - Built a chatbot with AWS Bedrock and AWS Lambda.
 - Achieved successful output of up to 20 tokens, encountering challenges with higher token limits.
 - Implemented a web adapter layer for streaming responses.
-
-### Stock Price Prediction LSTM Model | Self Project (Jun '23 - Jul '23)
-- Gathered Apple stock price data (2018-2023) for LSTM training.
-- Developed a 3-layer stacked LSTM model with high accuracy (training loss: 0.0018, test loss: 0.0021).
-
-### K-Means Clustering on Sales SAP Data | Self Project (May '23 - Jun '23)
-- Conducted RFM analysis on sales data using K-Means clustering.
-- Identified an optimal cluster count of 4 with silhouette scores.
 
 ### [More Projects](projects/README.md)
 
