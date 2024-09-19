@@ -28,8 +28,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
 
-- Doing research on deploying LLM models onto edge devices like raspberry pi.
-- Contributing to Project Indus, building LLMs for Indian languages.
+- Doing research on **deploying LLM models** onto edge devices like raspberry pi.
+- Contributing to **Project Indus**, building LLMs for Indian languages.
 - Engaging in foundational AI research for scalable AI systems.
 
 <br>
@@ -40,9 +40,9 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Cellstrat](assets/img/Cellstrat.png)  
 
-- Enhanced a Knowledge Mining chatbot with AWS services.
-- Developed a chatbot using the Amazon Titan model for an AWS workshop.
-- Evaluated over 50 different voices and 30-40 prompts for PhoneCallGPT.
+- Enhanced a **Knowledge Mining chatbot** with AWS services.
+- Developed a chatbot using the **Amazon Titan model** for an AWS workshop.
+- Evaluated over **50 different voices** and **30-40 prompts** for PhoneCallGPT.
 
 <br>
 
@@ -52,8 +52,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Ernst and Young (EY)](assets/img/EY.jpeg)  
 
-- Developed a 3-layer LSTM for sales prediction with an MAE of 0.0919.
-- Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
+- Developed a **3-layer LSTM** for sales prediction with an **MAE** of **0.0919**.
+- Implemented **LeakyReLU** activation and MSE loss for high prediction accuracy.
 
 <br>
 
