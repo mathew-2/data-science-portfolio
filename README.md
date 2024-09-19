@@ -52,8 +52,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Ernst and Young (EY)](assets/img/EY.jpeg)  
 
-- Developed a **3-layer LSTM** for sales prediction with an **MAE** of **0.0919**.
-- Implemented **LeakyReLU** activation and MSE loss for high prediction accuracy.
+- Developed a **3-layer LSTM** for **sales prediction** with an **MAE** of **0.0919**.
+- Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
 
 <br>
 
@@ -63,7 +63,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Follicular Stage Identification Project](assets/img/SMST.png)  
 
-- Utilized 2D fluorescent images to categorize ovarian follicle stages.
+- Utilized **2D fluorescent images** to categorize **ovarian follicle stages**.
 - Analyzed images to measure cellular thickness and identify growth phases.
 
 <br>
@@ -71,9 +71,9 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ## 🛠️ Projects
 
 ### PubMed Paper Scraper | Self Project (July '24)
-- A web app built with Streamlit to search and retrieve academic papers from PubMed based on user-defined topics.
-- Displays key information like paper title, journal, publication date, and abstract with links to PubMed.
-- Features error handling, rate limiting, and search capabilities for relevant papers.
+- A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
+- Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
+- Features **error handling**, **rate limiting**, and **search capabilities** for relevant papers.
 
 - [PubMed Paper Scraper Website](https://pubmed-paper-scraper.streamlit.app/)
 - [GitHub Repository](https://github.com/mathew-2/pubmed-paper-scraper)
@@ -81,8 +81,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ---
 
 ### PDF to HTML Converter | Self Project (August '24)
-- A web app that converts LinkedIn PDF resumes into professional HTML format using OpenAI's API.
-- Built using Streamlit for the interface and PyPDF2 for extracting text from PDFs.
+- A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
+- Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
 - Generates well-formatted HTML resumes based on extracted content.
 
 - [PDF to HTML Converter Website](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
@@ -92,8 +92,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ---
 
 ### Chatbot Development Using AWS | Intern Project (Jan '24)
-- Built a chatbot with AWS Bedrock and AWS Lambda.
-- Achieved successful output of up to 20 tokens, encountering challenges with higher token limits.
+- Built a chatbot with **AWS Bedrock** and **AWS Lambda**.
+- Achieved successful output of up to **20 tokens**, encountering challenges with higher token limits.
 - Implemented a web adapter layer for streaming responses.
 
 ### [More Projects](projects/README.md)
