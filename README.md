@@ -81,10 +81,13 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ---
 
 ### PDF to HTML Converter | Self Project (August '24)
-- A web application that converts a PDF resume downloaded from LinkedIn into a professional HTML resume using OpenAI's API.
-- Built with **Streamlit** for the user interface, **PyPDF2** for PDF text extraction, and **OpenAI API** for HTML generation.
-  
-- [PDF to HTML Converter](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
+- A web app that converts LinkedIn PDF resumes into professional HTML format using OpenAI's API.
+- Built using Streamlit for the interface and PyPDF2 for extracting text from PDFs.
+- Generates well-formatted HTML resumes based on extracted content.
+
+- [PDF to HTML Converter Website](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
+- [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
+
 
 ---
 
