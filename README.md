@@ -71,15 +71,12 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ## 🛠️ Projects
 
 ### PubMed Paper Scraper | Self Project (July '24)
-- A simple Streamlit web application that allows users to search for academic papers on PubMed based on a specific topic.
-- Retrieves a list of PubMed IDs (PMIDs) for relevant papers and displays details such as the title, journal, publication date, and abstract for each paper.
-- **Features**:
-  - **Search by Topic**: Input a topic (e.g., "machine learning in healthcare") to find relevant academic papers.
-  - **Rate Limiting**: Adheres to PubMed API usage policies through rate limiting.
-  - **Error Handling**: Gracefully handles HTTP and URL errors, providing meaningful feedback to the user.
-  - **Paper Details**: Displays paper titles, journals, publication dates, and abstracts with links to PubMed for further reading.
-  
-- [PubMed Paper Scraper](https://pubmed-paper-scraper.streamlit.app/)
+- A web app built with Streamlit to search and retrieve academic papers from PubMed based on user-defined topics.
+- Displays key information like paper title, journal, publication date, and abstract with links to PubMed.
+- Features error handling, rate limiting, and search capabilities for relevant papers.
+
+- [PubMed Paper Scraper Website](https://pubmed-paper-scraper.streamlit.app/)
+- [GitHub Repository](https://github.com/mathew-2/pubmed-paper-scraper)
 
 ---
 
