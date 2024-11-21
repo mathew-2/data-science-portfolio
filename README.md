@@ -1,7 +1,7 @@
 # Mathew Manoj - Data Science & AI Enthusiast 🌟
 
 
-Hi, I’m Mathew Manoj, an M.Tech student at IIT Kharagpur with hands-on experience from internships at **Tech Mahindra**, **Cellstrat**, and **Ernst & Young**. I love building AI solutions like chatbots and predictive models to solve real-world problems. Let’s connect!
+Hi, I’m Mathew Manoj, an undergraduate at IIT Kharagpur with hands-on experience from internships at **Tech Mahindra**, **Cellstrat**, and **Ernst & Young**. I love building AI solutions like chatbots and predictive models to solve real-world problems. Let’s connect!
 
 Take a look at my work, and feel free to connect if you're interested in collaborating!
 
