@@ -1,6 +1,7 @@
 # Mathew Manoj - Data Science & AI Enthusiast 🌟
 
-Welcome! I’m Mathew Manoj, currently pursuing my M.Tech Dual Degree in Biotechnology at IIT Kharagpur. My passion lies in blending biotechnology with cutting-edge AI and data science technologies. From building advanced chatbots to predicting stock prices with LSTM models, I’m constantly exploring how AI can solve real-world problems. With hands-on experience from internships at **Tech Mahindra Maker's Lab**, **Cellstrat**, and **Ernst & Young**, I’m particularly excited about exploring AI for edge devices and scalable AI solutions.
+
+Hi, I’m Mathew Manoj. I enjoy creating practical AI solutions, like chatbots and models for real-world use. Let’s connect!
 
 Take a look at my work, and feel free to connect if you're interested in collaborating!
 
