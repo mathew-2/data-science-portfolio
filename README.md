@@ -54,7 +54,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 ![Ernst and Young (EY)](assets/img/EY.jpeg)  
 
 - Developed a **3-layer LSTM** for **sales prediction** with an **MAE** of **0.0919**.
-- Implemented LeakyReLU activation and MSE loss for high prediction accuracy.
+- Implemented **LeakyReLU activation** and **MSE** loss for high prediction accuracy.
 
 <br>
 
