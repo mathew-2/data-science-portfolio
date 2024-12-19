@@ -71,7 +71,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🛠️ Projects
 
-### Emotion-Led Data Analysis | Self Project (May '24)
+### Emotion-Led Data Analysis | Self Project (Aug '24)
 - Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
 - Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
 - Developed insights to enhance **data-driven recruitment** strategies.
