@@ -71,7 +71,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🛠️ Projects
 
-### Emotion-Led Data Analysis | Self Project (Aug '24)
+**Emotion-Led Data Analysis | Self Project (Aug '24)**
 ![Emotion-Led Data Analysis | Self Project (Aug '24)](assets/project_images/emotional_EDA.png)  
 - Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
 - Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
@@ -79,7 +79,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 - [GitHub Repository](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
 
-### PubMed Paper Scraper | Self Project (July '24)
+**PubMed Paper Scraper | Self Project (July '24)**
 ![PubMed Paper Scraper | Self Project (July '24)](assets/project_images/pubmed_paper_scraper.png)  
 - A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
 - Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
@@ -90,7 +90,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ---
 
-### PDF to HTML Converter | Self Project (August '24)
+**PDF to HTML Converter | Self Project (August '24)**
 - A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
 - Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
 - Generates well-formatted HTML resumes based on extracted content.
@@ -101,7 +101,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ---
 
-### Chatbot Development Using AWS | Intern Project (Jan '24)
+**Chatbot Development Using AWS | Intern Project (Jan '24)**
 - Built a chatbot with **AWS Bedrock** and **AWS Lambda**.
 - Achieved successful output of up to **20 tokens**, encountering challenges with higher token limits.
 - Implemented a web adapter layer for streaming responses.
