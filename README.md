@@ -23,7 +23,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 💼 Work Experience
 
-**Tech Mahindra Maker's Lab**  
+### Tech Mahindra Maker's Lab  
 *AI Research Intern*  
 *Pune (Jun '24 - Sep '24)*
 
@@ -35,7 +35,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 <br>
 
-**Cellstrat**  
+### Cellstrat Inc  
 *Data Science Intern*  
 *Bangalore (Jan '24 - Present)*
 
@@ -47,7 +47,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 <br>
 
-**Ernst and Young (EY)**  
+### Ernst and Young (EY) LLP 
 *Data Analytics Intern*  
 *Bangalore (Jun '23 - Jul '23)*
 
@@ -58,7 +58,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 <br>
 
-**Follicular Stage Identification Project**  
+### Follicular Stage Identification Project  
 *Computer Vision Research Intern*  
 *IIT Kharagpur (May '23 - Present)*
 
@@ -71,7 +71,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🛠️ Projects
 
-**Emotion-Led Data Analysis | Self Project (Aug '24)**
+### Emotion-Led Data Analysis | Self Project (Aug '24)
 ![Emotion-Led Data Analysis | Self Project (Aug '24)](assets/project_images/emotional_EDA.png)  
 - Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
 - Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
@@ -79,7 +79,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 - [GitHub Repository](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
 
-**PubMed Paper Scraper | Self Project (July '24)**
+### PubMed Paper Scraper | Self Project (July '24)
 ![PubMed Paper Scraper | Self Project (July '24)](assets/project_images/pubmed_paper_scraper.png)  
 - A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
 - Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
@@ -90,7 +90,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ---
 
-**PDF to HTML Converter | Self Project (August '24)**
+### PDF to HTML Converter | Self Project (August '24)**
 - A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
 - Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
 - Generates well-formatted HTML resumes based on extracted content.
