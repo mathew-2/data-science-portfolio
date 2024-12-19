@@ -71,6 +71,13 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🛠️ Projects
 
+### Emotion-Led Data Analysis | Self Project (May '24)
+- Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
+- Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
+- Developed insights to enhance **data-driven recruitment** strategies.
+
+- [GitHub Repository](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
+
 ### PubMed Paper Scraper | Self Project (July '24)
 - A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
 - Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
