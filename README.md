@@ -25,7 +25,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 **Tech Mahindra Maker's Lab**  
 *AI Research Intern*  
-*Pune (Jun '24 - Present)*
+*Pune (Jun '24 - Sep '24)*
 
 ![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
 
