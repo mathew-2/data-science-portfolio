@@ -16,8 +16,8 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🎓 Education
 - **M.Tech Dual Degree, Biotechnology** | IIT Kharagpur (Expected 2026)
-- **Higher Secondary (XII)** | FIITJEE World School (2021)
-- **Secondary (X)** | FIITJEE World School (2018)
+- **Higher Secondary (XII)**            | FIITJEE World School (2021)
+- **Secondary (X)**                     | FIITJEE World School (2018)
 
 <br>
 
