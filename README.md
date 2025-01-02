@@ -92,7 +92,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ---
 
-### PDF to HTML Converter | Self Project (August '24)**
+### PDF to HTML Converter | Self Project (August '24)
 - A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
 - Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
 - Generates well-formatted HTML resumes based on extracted content.
