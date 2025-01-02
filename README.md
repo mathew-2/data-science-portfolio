@@ -117,7 +117,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 - Created a WhatsApp-based conversational agent using Meta LLaMA models (LLama - 2.1B) to analyze customer
 satisfaction and identify product needs
 -  Used Python, LangChain, MongoDB, and ChromaDB to do the context retrieval
-  [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
+-  [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
 
 ### Unit Liability Prediction Model | Inter Hall Data Analytics Competition (Feb '23 - Mar '23)
 - Developed a model predicting manufacturing unit safety with 97% accuracy, securing 1st place in accuracy.
