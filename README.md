@@ -114,13 +114,14 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ## 🏆 Competitions & Conferences
 ### Meta Hackathon (Oct '24)
+![Hackathon stuff](project_images/hackathon_prod_img.jpeg)  
 - Created a WhatsApp-based conversational agent using Meta LLaMA models (LLama - 2.1B) to analyze customer
 satisfaction and identify product needs
 -  Used Python, LangChain, MongoDB, and ChromaDB to do the context retrieval
 -  [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
 
 ### Unit Liability Prediction Model | Inter Hall Data Analytics Competition (Feb '23 - Mar '23)
-- Developed a model predicting manufacturing unit safety with 97% accuracy, securing 1st place in accuracy.
+- Developed a model predicting manufacturing unit safety with 97% accuracy, made it to 1st place in accuracy.
 
 ### Construction of Fintech Website | Inter Hall Opensoft Competition (Mar '23)
 - Developed a SaaS platform for financial services using React.js, Node.js, and MongoDB.
