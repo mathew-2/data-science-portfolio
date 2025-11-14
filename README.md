@@ -39,7 +39,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 *Data Science Intern*
 *Banglore (Dec '24)*
 
-![Prodoc AI LOGO](assets/img/prodoc_ai.png) 
+![Prodoc AI logo](assets/img/prodoc_ai.png) 
 
 - Trained DeBERTa for **end-of-conversation detection** with strong accuracy and precision.
 - Built a **VAD module** to filter speech from noise, improving conversation flow and timing.
