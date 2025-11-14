@@ -25,25 +25,25 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ### Amazon
 *Applied Scientist Intern*
-*May '25 - Oct '25*
+*Banglore (May '25 - Oct '25)*
 
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png) 
+![Amazon LOGO](assets/img/amazon_icon.png) 
 
-Fine-tuned a 1.5B-parameter LLM using Supervised Fine-Tuning (SFT) to predict API or natural language responses for edge deployment scenarios.
-Achieved 95% API selection accuracy and 88% API invocation accuracy across the dataset through comprehensive model evaluation.
-Implemented student-teacher distillation to enable intelligent query routing between local and offload processing.
-Reached 82% API invocation accuracy and 91% decision routing accuracy, meeting production-level standards for deployment.
+- Fine-tuned a **1.5B LLM** for API vs. natural-language response prediction on edge devices.
+- Used **distillation** to help the model decide when to run queries locally or offload them.
+- Reached high accuracy in both **API invocation** and **decision routing** for production use.
 
 <br>
 
 ### Prodoc AI
 *Data Science Intern*
-*Dec '24*
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png) 
+*Banglore (Dec '24)*
 
-Trained DeBERTa on real-time chat data for end-of-conversation detection, achieving 87% accuracy and 86.6% precision.
-Implemented a VAD (Voice Activity Detection) module for speech-noise detection, significantly improving conversational flow and response timing.
-Deployed the fine-tuned model onto Hugging Face and integrated it with healthcare applications, increasing user interaction by 25%.
+![Prodoc AI LOGO](assets/img/prodoc ai.png) 
+
+- Trained DeBERTa for **end-of-conversation detection** with strong accuracy and precision.
+- Built a **VAD module** to filter speech from noise, improving conversation flow and timing.
+- Deployed the model on **Hugging Face** and integrated it into healthcare apps, boosting user interaction
 
 <br>
 
