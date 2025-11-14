@@ -1,11 +1,11 @@
-# Mathew Manoj - Data Science & AI Enthusiast 🌟
+# Mathew Manoj - Data Science & AI Enthusiast
 
 
 Hi, I’m Mathew Manoj, an undergraduate at IIT Kharagpur with hands-on experience from internships at **Tech Mahindra**, **Cellstrat**, and **Ernst & Young**. I love building AI solutions like chatbots and predictive models to solve real-world problems. Let’s connect!
 
 Take a look at my work, and feel free to connect if you're interested in collaborating!
 
-## 🚀 Technical Skills
+##  Technical Skills
 - **Languages:** Python, C++
 - **Libraries/Frameworks:** TensorFlow, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Scipy
 - **Developer Tools:** Visual Studio Code, Google Colab, Jupyter Notebook, MATLAB, XCode
@@ -21,7 +21,30 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 <br>
 
-## 💼 Work Experience
+##  Work Experience
+
+### Amazon
+*Applied Scientist Intern*
+*May '25 - Oct '25*
+
+![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png) 
+
+Fine-tuned a 1.5B-parameter LLM using Supervised Fine-Tuning (SFT) to predict API or natural language responses for edge deployment scenarios.
+Achieved 95% API selection accuracy and 88% API invocation accuracy across the dataset through comprehensive model evaluation.
+Implemented student-teacher distillation to enable intelligent query routing between local and offload processing.
+Reached 82% API invocation accuracy and 91% decision routing accuracy, meeting production-level standards for deployment.
+
+<br>
+### Prodoc AI
+*Data Science Intern*
+*Dec '24*
+![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png) 
+
+Trained DeBERTa on real-time chat data for end-of-conversation detection, achieving 87% accuracy and 86.6% precision.
+Implemented a VAD (Voice Activity Detection) module for speech-noise detection, significantly improving conversational flow and response timing.
+Deployed the fine-tuned model onto Hugging Face and integrated it with healthcare applications, increasing user interaction by 25%.
+
+<br>
 
 ### Tech Mahindra Maker's Lab  
 *AI Research Intern*  
@@ -29,7 +52,7 @@ Take a look at my work, and feel free to connect if you're interested in collabo
 
 ![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
 
-- Doing research on **deploying LLM models** onto edge devices like raspberry pi.
+- Did research on **deploying LLM models** onto edge devices like raspberry pi.
 - Contributing to **Project Indus**, building LLMs for Indian languages.
 - Engaging in foundational AI research for scalable AI systems.
 
