@@ -1,173 +1,183 @@
-# Mathew Manoj - Data Science & AI Enthusiast
+# Mathew Manoj
 
+**Data Science & AI** · M.Tech Dual Degree, IIT Kharagpur
 
-Hi, I’m Mathew Manoj, an undergraduate at IIT Kharagpur with hands-on experience from internships at **Tech Mahindra**, **Cellstrat**, and **Ernst & Young**. I love building AI solutions like chatbots and predictive models to solve real-world problems. Let’s connect!
+[![GitHub](https://img.shields.io/badge/GitHub-mathew--2-181717?logo=github)](https://github.com/mathew-2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mathew--manoj-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mathew-manoj)
+[![X](https://img.shields.io/badge/X-@mattdraco13-000000?logo=x)](https://x.com/mattdraco13)
 
-Take a look at my work, and feel free to connect if you're interested in collaborating!
+Hi, I'm Mathew — an undergraduate at IIT Kharagpur who enjoys building AI systems that solve real-world problems, from on-device LLMs to chatbots and predictive models. I've interned at **Amazon**, **Tech Mahindra**, **Cellstrat**, **Prodoc AI**, and **Ernst & Young**.
 
-##  Technical Skills
-- **Languages:** Python, C++
-- **Libraries/Frameworks:** TensorFlow, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Scipy
-- **Developer Tools:** Visual Studio Code, Google Colab, Jupyter Notebook, MATLAB, XCode
-- **Cloud Services:** AWS (including AWS Bedrock)
-- **Other Tools:** Git
+Take a look around, and feel free to reach out if you'd like to collaborate!
 
-<br>
+---
+
+## 🧰 Technical Skills
+
+| Category | Tools |
+| --- | --- |
+| **Languages** | Python, C++ |
+| **Libraries & Frameworks** | TensorFlow, Scikit-Learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **Cloud** | AWS (including Bedrock) |
+| **Developer Tools** | Git, VS Code, Jupyter Notebook, Google Colab, MATLAB, Xcode |
+
+---
 
 ## 🎓 Education
-- **M.Tech Dual Degree, Biotechnology** | IIT Kharagpur (Expected 2026)
-- **Higher Secondary (XII)**            | FIITJEE World School (2021)
-- **Secondary (X)**                     | FIITJEE World School (2018)
 
-<br>
+| Degree | Institution | Year |
+| --- | --- | --- |
+| M.Tech Dual Degree, Biotechnology | IIT Kharagpur | Expected 2026 |
+| Higher Secondary (XII) | FIITJEE World School | 2021 |
+| Secondary (X) | FIITJEE World School | 2018 |
 
-##  Work Experience
+---
 
-### Amazon
-*Applied Scientist Intern*
-*Banglore (May '25 - Oct '25)*
+## 💼 Work Experience
 
-![Amazon LOGO](assets/img/amazon_icon.png) 
+### Amazon — Applied Scientist Intern
 
-- Fine-tuned a **1.5B LLM** for API vs. natural-language response prediction on edge devices.
-- Used **distillation** to help the model decide when to run queries locally or offload them.
-- Reached high accuracy in both **API invocation** and **decision routing** for production use.
+<img src="assets/img/amazon_icon.png" alt="Amazon" height="40">
 
-<br>
+*Bangalore · May '25 – Oct '25*
 
-### Prodoc AI
-*Data Science Intern*
-*Banglore (Dec '24)*
+- Fine-tuned a **1.5B-parameter LLM** to predict API calls vs. natural-language responses on edge devices.
+- Used **distillation** to teach the model when to run queries locally and when to offload them.
+- Achieved high accuracy in both **API invocation** and **decision routing** for production use.
 
-![Prodoc AI logo](assets/img/prodoc_ai.png) 
+### Prodoc AI — Data Science Intern
 
-- Trained DeBERTa for **end-of-conversation detection** with strong accuracy and precision.
-- Built a **VAD module** to filter speech from noise, improving conversation flow and timing.
-- Deployed the model on **Hugging Face** and integrated it into healthcare apps, boosting user interaction
+<img src="assets/img/prodoc_ai.png" alt="Prodoc AI" height="40">
 
-<br>
+*Bangalore · Dec '24*
 
-### Tech Mahindra Maker's Lab  
-*AI Research Intern*  
-*Pune (Jun '24 - Sep '24)*
+- Trained **DeBERTa** for **end-of-conversation detection** with strong accuracy and precision.
+- Built a **voice activity detection (VAD)** module to separate speech from noise, improving conversation flow and timing.
+- Deployed the model on **Hugging Face** and integrated it into healthcare apps, boosting user engagement.
 
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
+### Tech Mahindra Maker's Lab — AI Research Intern
 
-- Did research on **deploying LLM models** onto edge devices like raspberry pi.
-- Contributing to **Project Indus**, building LLMs for Indian languages.
-- Engaging in foundational AI research for scalable AI systems.
+<img src="assets/img/Makers_lab.png" alt="Tech Mahindra Maker's Lab" height="40">
 
-<br>
+*Pune · Jun '24 – Sep '24*
 
-### Cellstrat Inc  
-*Data Science Intern*  
-*Bangalore (Jan '24 - Present)*
+- Researched **deploying LLMs on edge devices** such as the Raspberry Pi.
+- Contributed to **Project Indus**, building LLMs for Indian languages.
+- Took part in foundational research on scalable AI systems.
 
-![Cellstrat](assets/img/Cellstrat.png)  
+### Cellstrat Inc — Data Science Intern
 
-- Enhanced a **Knowledge Mining chatbot** with AWS services.
-- Developed a chatbot using the **Amazon Titan model** for an AWS workshop.
-- Evaluated over **50 different voices** and **30-40 prompts** for PhoneCallGPT.
+<img src="assets/img/Cellstrat.png" alt="Cellstrat" height="40">
 
-<br>
+*Bangalore · Jan '24 – Present*
 
-### Ernst and Young (EY) LLP 
-*Data Analytics Intern*  
-*Bangalore (Jun '23 - Jul '23)*
+- Enhanced a **knowledge-mining chatbot** using AWS services.
+- Built a chatbot on the **Amazon Titan** model for an AWS workshop.
+- Evaluated **50+ voices** and **30–40 prompts** for PhoneCallGPT.
 
-![Ernst and Young (EY)](assets/img/EY.jpeg)  
+### Ernst & Young (EY) LLP — Data Analytics Intern
 
-- Developed a **3-layer LSTM** for **sales prediction** with an **MAE** of **0.0919**.
-- Implemented **LeakyReLU activation** and **MSE** loss for high prediction accuracy.
+<img src="assets/img/EY.jpeg" alt="EY" height="40">
 
-<br>
+*Bangalore · Jun '23 – Jul '23*
 
-### Follicular Stage Identification Project  
-*Computer Vision Research Intern*  
-*IIT Kharagpur (May '23 - Present)*
+- Developed a **3-layer LSTM** for **sales prediction**, reaching an **MAE of 0.0919**.
+- Used **LeakyReLU** activations and **MSE** loss to improve prediction accuracy.
 
-![Follicular Stage Identification Project](assets/img/SMST.png)  
+### Follicular Stage Identification — Computer Vision Research Intern
 
-- Utilized **2D fluorescent images** to categorize **ovarian follicle stages**.
+<img src="assets/img/SMST.png" alt="SMST, IIT Kharagpur" height="40">
+
+*IIT Kharagpur · May '23 – Present*
+
+- Classified **ovarian follicle stages** from **2D fluorescence images**.
 - Analyzed images to measure cellular thickness and identify growth phases.
 
-<br>
+---
 
 ## 🛠️ Projects
 
-### Emotion-Led Data Analysis | Self Project (Aug '24)
-![Emotional EDA](project_images/emotional_EDA.png)  
-  
-- Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
-- Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
-- Developed insights to enhance **data-driven recruitment** strategies.
+### Emotion-Led Candidate Analysis
 
-- [GitHub Repository](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
+*Self project · Aug '24* · [GitHub](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
 
-### PubMed Paper Scraper | Self Project (July '24)
-![Pubmed stuff](project_images/pubmed_paper_scraper.png)  
+<img src="project_images/emotional_EDA.png" alt="Emotion-led EDA charts" width="600">
 
-- A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
-- Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
-- Features **error handling**, **rate limiting**, and **search capabilities** for relevant papers.
+- Performed exploratory data analysis on **candidate profiles** to uncover **emotion-led patterns** in recruitment.
+- Visualized trends in **emotions**, **sentiment**, and **personality traits** with Matplotlib and Seaborn.
+- Derived insights to support **data-driven recruitment** strategies.
 
-- [PubMed Paper Scraper Website](https://pubmed-paper-scraper.streamlit.app/)
-- [GitHub Repository](https://github.com/mathew-2/pubmed-paper-scraper)
+### PubMed Paper Scraper
 
----
+*Self project · Jul '24* · [Live App](https://pubmed-paper-scraper.streamlit.app/) · [GitHub](https://github.com/mathew-2/pubmed-paper-scraper)
 
-### PDF to HTML Converter | Self Project (August '24)
-- A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
-- Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
-- Generates well-formatted HTML resumes based on extracted content.
+<img src="project_images/pubmed_paper_scraper.png" alt="PubMed Paper Scraper app" width="600">
 
-- [PDF to HTML Converter Website](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
-- [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
+- Streamlit app that searches and retrieves **academic papers** from **PubMed** by topic.
+- Shows each paper's **title**, **journal**, **publication date**, and **abstract**, with links back to PubMed.
+- Includes **error handling** and **rate limiting**.
 
+### PDF to HTML Resume Converter
 
----
+*Self project · Aug '24* · [Live App](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/) · [GitHub](https://github.com/mathew-2/PDF-To-Html)
 
-### Chatbot Development Using AWS | Intern Project (Jan '24)
+- Converts **LinkedIn PDF resumes** into polished **HTML** using the OpenAI API.
+- Built with **Streamlit** for the interface and **PyPDF2** for text extraction.
+
+### Chatbot Development Using AWS
+
+*Internship project · Jan '24*
+
 - Built a chatbot with **AWS Bedrock** and **AWS Lambda**.
-- Achieved successful output of up to **20 tokens**, encountering challenges with higher token limits.
 - Implemented a web adapter layer for streaming responses.
+- Produced outputs of up to **20 tokens**, and investigated the challenges with longer outputs.
 
-### [More Projects](projects/README.md)
+➡️ **[See more projects](projects/README.md)**
 
-<br>
+---
 
-## 🏆 Competitions & Conferences
-### Meta Hackathon (Oct '24)
-![Hackathon stuff](project_images/hackathon_prod_img.jpeg)  
-- Created a WhatsApp-based conversational agent using Meta LLaMA models (LLama - 2.1B) to analyze customer
-satisfaction and identify product needs
--  Used Python, LangChain, MongoDB, and ChromaDB to do the context retrieval
--  [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
+## 🏆 Competitions
 
-### Unit Liability Prediction Model | Inter Hall Data Analytics Competition (Feb '23 - Mar '23)
-- Developed a model predicting manufacturing unit safety with 97% accuracy, made it to 1st place in accuracy.
+### Meta Hackathon · Oct '24
 
-### Construction of Fintech Website | Inter Hall Opensoft Competition (Mar '23)
-- Developed a SaaS platform for financial services using React.js, Node.js, and MongoDB.
+<img src="project_images/hackathon_prod_img.jpeg" alt="Meta Hackathon project" width="600">
 
-<br>
+- Built a WhatsApp-based conversational agent using **Meta Llama** models to analyze customer satisfaction and identify product needs.
+- Used **Python**, **LangChain**, **MongoDB**, and **ChromaDB** for context retrieval.
+- [GitHub](https://github.com/mathew-2/PDF-To-Html)
+
+### Unit Liability Prediction · Inter-Hall Data Analytics Competition · Feb–Mar '23
+
+- Built a model predicting manufacturing-unit safety with **97% accuracy**, placing **1st in accuracy**.
+
+### Fintech Website · Inter-Hall Open Soft Competition · Mar '23
+
+- Developed a SaaS platform for financial services using **React.js**, **Node.js**, and **MongoDB**.
+
+---
 
 ## 🏅 Positions of Responsibility
-![KGTS](assets/img/kgts.png)
 
-### Academic Head | Kharagpur Game Theory Society | IIT Kharagpur (Aug '23 - Apr '24)
-- Organized workshops on game theory concepts and coordinated the flagship event Stratathon.
+### Academic Head — Kharagpur Game Theory Society
 
-<br>
+<img src="assets/img/kgts.png" alt="Kharagpur Game Theory Society" height="60">
 
-## ⚽ Extracurricular Activities
-- **Football:** Active member of the bronze-winning football team of Vidyasagar Hall of Residence.
-- **Swimming:** Participant in events with the Technology Aquatics Society at IIT Kharagpur.
-- **Cultural:** Organized Pongal celebrations for IIT Kharagpur Tamil Sangam, attracting over 200 attendees.
+*IIT Kharagpur · Aug '23 – Apr '24*
 
-## 🔗 Let's Connect!
-- [GitHub](https://github.com/mathew-2)
-- [LinkedIn](https://www.linkedin.com/in/mathew-manoj)
-- [Twitter](https://x.com/mattdraco13)
+- Organized workshops on game theory and coordinated the flagship event, **Stratathon**.
+
+---
+
+## ⚽ Extracurriculars
+
+- **Football:** Member of the bronze-winning Vidyasagar Hall of Residence team.
+- **Swimming:** Competed in events with the Technology Aquatics Society, IIT Kharagpur.
+- **Cultural:** Organized Pongal celebrations for the IIT Kharagpur Tamil Sangam, drawing 200+ attendees.
+
+---
+
+## 🔗 Let's Connect
+
+[GitHub](https://github.com/mathew-2) · [LinkedIn](https://www.linkedin.com/in/mathew-manoj) · [X / Twitter](https://x.com/mattdraco13)
 
 Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or have any questions!
