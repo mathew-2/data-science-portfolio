@@ -168,7 +168,8 @@ Take a look around, and feel free to reach out if you'd like to collaborate!
 
 ### ▸ Meta Hackathon
 
-**Hackathon** — *Oct '24* · [**GitHub**](https://github.com/mathew-2/PDF-To-Html)
+**Hackathon** — *Oct '24* <!-- · [**GitHub**](https://github.com/mathew-2/PDF-To-Html) -->
+
 
 <img src="project_images/hackathon_prod_img.jpeg" alt="Meta Hackathon project" width="600">
 
