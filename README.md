@@ -1,173 +1,144 @@
-# Mathew Manoj - Data Science & AI Enthusiast
+# Hi, I'm Mathew Manoj 👋
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86DE&vCenter=true&width=460&lines=Applied+Scientist+Intern+%40+Amazon;LLMs+%E2%80%A2+Edge+AI+%E2%80%A2+NLP;Dual+Degree+%40+IIT+Kharagpur+(%2726)" alt="Applied Scientist Intern @ Amazon · LLMs · Edge AI · NLP">
+</p>
 
-Hi, I’m Mathew Manoj, an undergraduate at IIT Kharagpur with hands-on experience from internships at **Tech Mahindra**, **Cellstrat**, and **Ernst & Young**. I love building AI solutions like chatbots and predictive models to solve real-world problems. Let’s connect!
+I'm a dual-degree student at **IIT Kharagpur** who builds and ships ML systems. Most recently I was an **Applied Scientist Intern at Amazon**, fine-tuning and distilling a 1.5B-parameter LLM to run on edge devices. Before that I worked on LLMs and speech at **Prodoc AI**, **Tech Mahindra Maker's Lab**, **Cellstrat** and **EY**.
 
-Take a look at my work, and feel free to connect if you're interested in collaborating!
+<p>
+  <a href="https://www.linkedin.com/in/mathew-manoj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mathew-2"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/mattdraco13"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
-##  Technical Skills
-- **Languages:** Python, C++
-- **Libraries/Frameworks:** TensorFlow, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Scipy
-- **Developer Tools:** Visual Studio Code, Google Colab, Jupyter Notebook, MATLAB, XCode
-- **Cloud Services:** AWS (including AWS Bedrock)
-- **Other Tools:** Git
+---
 
-<br>
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+## 💼 Experience
+
+### <img src="assets/img/amazon_icon.png" height="22" alt=""> Amazon — Applied Scientist Intern
+`Bangalore · May '25 – Oct '25`
+
+- Fine-tuned a **1.5B LLM** to decide between an **API call** and a **natural-language reply** on edge devices. <!-- TODO: add accuracy figure -->
+- Used **distillation** to teach the model when to answer locally and when to hand off to the cloud, reaching production-level routing accuracy.
+
+### <img src="assets/img/prodoc_ai.png" height="18" alt=""> Prodoc AI — Data Science Intern
+`Bangalore · Dec '24`
+
+- Trained **DeBERTa** for **end-of-conversation detection** in healthcare voice apps. <!-- TODO: add accuracy / precision -->
+- Built a **voice activity detection (VAD)** module and deployed the model on **Hugging Face**.
+
+### <img src="assets/img/Makers_lab.png" height="20" alt=""> Tech Mahindra Maker's Lab — AI Research Intern
+`Pune · Jun '24 – Sep '24`
+
+- Researched **deploying LLMs on edge devices** such as the Raspberry Pi.
+- Contributed to **Project Indus**, an LLM for Indian languages.
+
+### <img src="assets/img/Cellstrat.png" height="18" alt=""> Cellstrat — Data Science Intern
+`Bangalore · Jan '24` <!-- TODO: add end date -->
+
+- Improved a **knowledge-mining chatbot** on AWS and built an **Amazon Titan** chatbot for an AWS workshop.
+- Evaluated **50+ voices** and **30–40 prompts** for PhoneCallGPT.
+
+### <img src="assets/img/EY.jpeg" height="22" alt=""> EY — Data Analytics Intern
+`Bangalore · Jun '23 – Jul '23`
+
+- Built a **3-layer LSTM** for **sales forecasting** with an **MAE of 0.0919**.
+
+### <img src="assets/img/SMST.png" height="18" alt=""> IIT Kharagpur — Computer Vision Research Intern
+`Follicular Stage Identification · May '23` <!-- TODO: add end date -->
+
+- Classified **ovarian follicle stages** from 2D fluorescence images by measuring cell-layer thickness.
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="project_images/hackathon_prod_img.jpeg" alt="Meta Hackathon project"><br>
+      <b>🏆 WhatsApp Customer Insights Agent</b><br>
+      <sub>Meta Hackathon · Oct '24</sub><br>
+      A WhatsApp agent built on Meta Llama that reads customer conversations to measure satisfaction and spot product needs. Uses LangChain, MongoDB and ChromaDB for retrieval.
+    </td>
+    <td width="50%" valign="top">
+      <img src="project_images/pubmed_paper_scraper.png" alt="PubMed Paper Scraper"><br>
+      <b>📚 PubMed Paper Scraper</b><br>
+      <sub>Self project · Jul '24</sub><br>
+      A Streamlit app that searches PubMed by topic and shows titles, journals, dates and abstracts, with rate limiting built in.<br>
+      <a href="https://pubmed-paper-scraper.streamlit.app/"><img src="https://img.shields.io/badge/Live%20demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live demo"></a>
+      <a href="https://github.com/mathew-2/pubmed-paper-scraper"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="project_images/emotional_EDA.png" alt="Emotion-Led Data Analysis"><br>
+      <b>🎭 Emotion-Led Candidate Analysis</b><br>
+      <sub>Self project · Aug '24</sub><br>
+      Exploratory analysis of candidate profiles that charts emotion, sentiment and personality patterns in recruitment.<br>
+      <a href="https://github.com/mathew-2/Emotion-Led-Candidate-Analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>📄 PDF → HTML Resume Converter</b><br>
+      <sub>Self project · Aug '24</sub><br>
+      Turns LinkedIn PDF resumes into clean HTML pages using PyPDF2 and the OpenAI API, with a Streamlit front end.<br>
+      <a href="https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/"><img src="https://img.shields.io/badge/Live%20demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live demo"></a>
+      <a href="https://github.com/mathew-2/PDF-To-Html"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <br><br>
+      <b>☁️ AWS Bedrock Chatbot</b><br>
+      <sub>Cellstrat · Jan '24</sub><br>
+      A streaming chatbot on AWS Bedrock and Lambda, using a web adapter layer to stream responses.
+    </td>
+  </tr>
+</table>
+
+👉 **[More projects](projects/README.md)**: stock prediction with an LSTM, K-means on SAP sales data, a movie recommender, and next-word prediction.
+
+---
+
+## 🏅 Achievements & Leadership
+
+- 🥇 **1st place in accuracy**, Inter Hall Data Analytics competition (Feb '23): predicted manufacturing-unit safety with **97% accuracy**.
+- 💻 **Inter Hall Opensoft** (Mar '23): built a fintech SaaS platform with React, Node.js and MongoDB.
+- <img src="assets/img/kgts.png" height="16" alt=""> **Academic Head, Kharagpur Game Theory Society** (Aug '23 – Apr '24): ran game-theory workshops and coordinated the flagship event Stratathon.
 
 ## 🎓 Education
-- **M.Tech Dual Degree, Biotechnology** | IIT Kharagpur (Expected 2026)
-- **Higher Secondary (XII)**            | FIITJEE World School (2021)
-- **Secondary (X)**                     | FIITJEE World School (2018)
 
-<br>
+| Degree | Institution | Year |
+|---|---|---|
+| M.Tech Dual Degree, Biotechnology | IIT Kharagpur | 2026 (expected) |
+| Class XII | FIITJEE World School | 2021 |
+| Class X | FIITJEE World School | 2018 |
 
-##  Work Experience
+## ⚽ Beyond Work
 
-### Amazon
-*Applied Scientist Intern*
-*Banglore (May '25 - Oct '25)*
-
-![Amazon LOGO](assets/img/amazon_icon.png) 
-
-- Fine-tuned a **1.5B LLM** for API vs. natural-language response prediction on edge devices.
-- Used **distillation** to help the model decide when to run queries locally or offload them.
-- Reached high accuracy in both **API invocation** and **decision routing** for production use.
-
-<br>
-
-### Prodoc AI
-*Data Science Intern*
-*Banglore (Dec '24)*
-
-![Prodoc AI logo](assets/img/prodoc_ai.png) 
-
-- Trained DeBERTa for **end-of-conversation detection** with strong accuracy and precision.
-- Built a **VAD module** to filter speech from noise, improving conversation flow and timing.
-- Deployed the model on **Hugging Face** and integrated it into healthcare apps, boosting user interaction
-
-<br>
-
-### Tech Mahindra Maker's Lab  
-*AI Research Intern*  
-*Pune (Jun '24 - Sep '24)*
-
-![Tech Mahindra Maker's Lab](assets/img/Makers_lab.png)  
-
-- Did research on **deploying LLM models** onto edge devices like raspberry pi.
-- Contributing to **Project Indus**, building LLMs for Indian languages.
-- Engaging in foundational AI research for scalable AI systems.
-
-<br>
-
-### Cellstrat Inc  
-*Data Science Intern*  
-*Bangalore (Jan '24 - Present)*
-
-![Cellstrat](assets/img/Cellstrat.png)  
-
-- Enhanced a **Knowledge Mining chatbot** with AWS services.
-- Developed a chatbot using the **Amazon Titan model** for an AWS workshop.
-- Evaluated over **50 different voices** and **30-40 prompts** for PhoneCallGPT.
-
-<br>
-
-### Ernst and Young (EY) LLP 
-*Data Analytics Intern*  
-*Bangalore (Jun '23 - Jul '23)*
-
-![Ernst and Young (EY)](assets/img/EY.jpeg)  
-
-- Developed a **3-layer LSTM** for **sales prediction** with an **MAE** of **0.0919**.
-- Implemented **LeakyReLU activation** and **MSE** loss for high prediction accuracy.
-
-<br>
-
-### Follicular Stage Identification Project  
-*Computer Vision Research Intern*  
-*IIT Kharagpur (May '23 - Present)*
-
-![Follicular Stage Identification Project](assets/img/SMST.png)  
-
-- Utilized **2D fluorescent images** to categorize **ovarian follicle stages**.
-- Analyzed images to measure cellular thickness and identify growth phases.
-
-<br>
-
-## 🛠️ Projects
-
-### Emotion-Led Data Analysis | Self Project (Aug '24)
-![Emotional EDA](project_images/emotional_EDA.png)  
-  
-- Conducted exploratory data analysis (EDA) on **candidate profiles** to understand **emotion-led patterns** in recruitment.
-- Visualized trends in **emotions**, **sentiments**, and **personality traits** using Python libraries like Matplotlib and Seaborn.
-- Developed insights to enhance **data-driven recruitment** strategies.
-
-- [GitHub Repository](https://github.com/mathew-2/Emotion-Led-Candidate-Analysis)
-
-### PubMed Paper Scraper | Self Project (July '24)
-![Pubmed stuff](project_images/pubmed_paper_scraper.png)  
-
-- A web app built with Streamlit to search and retrieve **academic papers** from **PubMed** based on user-defined topics.
-- Displays key information like **paper title**, **journal**, **publication date**, and **abstract** with links to PubMed.
-- Features **error handling**, **rate limiting**, and **search capabilities** for relevant papers.
-
-- [PubMed Paper Scraper Website](https://pubmed-paper-scraper.streamlit.app/)
-- [GitHub Repository](https://github.com/mathew-2/pubmed-paper-scraper)
+⚽ Bronze-winning football team, Vidyasagar Hall · 🏊 Technology Aquatics Society · 🎉 Organised Pongal for the IIT KGP Tamil Sangam (200+ attendees)
 
 ---
 
-### PDF to HTML Converter | Self Project (August '24)
-- A web app that converts **LinkedIn PDF resumes** into professional **HTML format** using OpenAI's API.
-- Built using Streamlit for the interface and **PyPDF2** for extracting text from PDFs.
-- Generates well-formatted HTML resumes based on extracted content.
-
-- [PDF to HTML Converter Website](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app/)
-- [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
-
-
----
-
-### Chatbot Development Using AWS | Intern Project (Jan '24)
-- Built a chatbot with **AWS Bedrock** and **AWS Lambda**.
-- Achieved successful output of up to **20 tokens**, encountering challenges with higher token limits.
-- Implemented a web adapter layer for streaming responses.
-
-### [More Projects](projects/README.md)
-
-<br>
-
-## 🏆 Competitions & Conferences
-### Meta Hackathon (Oct '24)
-![Hackathon stuff](project_images/hackathon_prod_img.jpeg)  
-- Created a WhatsApp-based conversational agent using Meta LLaMA models (LLama - 2.1B) to analyze customer
-satisfaction and identify product needs
--  Used Python, LangChain, MongoDB, and ChromaDB to do the context retrieval
--  [GitHub Repository](https://github.com/mathew-2/PDF-To-Html)
-
-### Unit Liability Prediction Model | Inter Hall Data Analytics Competition (Feb '23 - Mar '23)
-- Developed a model predicting manufacturing unit safety with 97% accuracy, made it to 1st place in accuracy.
-
-### Construction of Fintech Website | Inter Hall Opensoft Competition (Mar '23)
-- Developed a SaaS platform for financial services using React.js, Node.js, and MongoDB.
-
-<br>
-
-## 🏅 Positions of Responsibility
-![KGTS](assets/img/kgts.png)
-
-### Academic Head | Kharagpur Game Theory Society | IIT Kharagpur (Aug '23 - Apr '24)
-- Organized workshops on game theory concepts and coordinated the flagship event Stratathon.
-
-<br>
-
-## ⚽ Extracurricular Activities
-- **Football:** Active member of the bronze-winning football team of Vidyasagar Hall of Residence.
-- **Swimming:** Participant in events with the Technology Aquatics Society at IIT Kharagpur.
-- **Cultural:** Organized Pongal celebrations for IIT Kharagpur Tamil Sangam, attracting over 200 attendees.
-
-## 🔗 Let's Connect!
-- [GitHub](https://github.com/mathew-2)
-- [LinkedIn](https://www.linkedin.com/in/mathew-manoj)
-- [Twitter](https://x.com/mattdraco13)
-
-Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or have any questions!
+<p align="center"><b>Open to collaborations in LLMs, edge AI and applied ML. Let's talk!</b><br><br>
+  <a href="https://www.linkedin.com/in/mathew-manoj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mathew-2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
