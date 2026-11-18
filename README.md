@@ -37,37 +37,67 @@ I'm a dual-degree student at **IIT Kharagpur** who builds and ships ML systems. 
 
 ## 💼 Experience
 
-### <img src="assets/img/amazon_icon.png" height="22" alt=""> Amazon — Applied Scientist Intern
-`Bangalore · May '25 – Oct '25`
+<div class="role">
+  <div>
+    <h3>Applied Scientist Intern</h3>
+    <p class="role-meta"><b>Amazon</b> · Bangalore · May '25 – Oct '25</p>
+  </div>
+  <img class="role-logo" src="assets/img/amazon_icon.png" height="26" alt="Amazon logo">
+</div>
 
 - Fine-tuned a **1.5B LLM** to decide between an **API call** and a **natural-language reply** on edge devices. <!-- TODO: add accuracy figure -->
 - Used **distillation** to teach the model when to answer locally and when to hand off to the cloud, reaching production-level routing accuracy.
 
-### <img src="assets/img/prodoc_ai.png" height="18" alt=""> Prodoc AI — Data Science Intern
-`Bangalore · Dec '24`
+<div class="role">
+  <div>
+    <h3>Data Science Intern</h3>
+    <p class="role-meta"><b>Prodoc AI</b> · Bangalore · Dec '24</p>
+  </div>
+  <img class="role-logo" src="assets/img/prodoc_ai.png" height="26" alt="Prodoc AI logo">
+</div>
 
 - Trained **DeBERTa** for **end-of-conversation detection** in healthcare voice apps. <!-- TODO: add accuracy / precision -->
 - Built a **voice activity detection (VAD)** module and deployed the model on **Hugging Face**.
 
-### <img src="assets/img/Makers_lab.png" height="20" alt=""> Tech Mahindra Maker's Lab — AI Research Intern
-`Pune · Jun '24 – Sep '24`
+<div class="role">
+  <div>
+    <h3>AI Research Intern</h3>
+    <p class="role-meta"><b>Tech Mahindra Maker's Lab</b> · Pune · Jun '24 – Sep '24</p>
+  </div>
+  <img class="role-logo" src="assets/img/Makers_lab.png" height="26" alt="Tech Mahindra Maker's Lab logo">
+</div>
 
 - Researched **deploying LLMs on edge devices** such as the Raspberry Pi.
 - Contributed to **Project Indus**, an LLM for Indian languages.
 
-### <img src="assets/img/Cellstrat.png" height="18" alt=""> Cellstrat — Data Science Intern
-`Bangalore · Jan '24` <!-- TODO: add end date -->
+<div class="role">
+  <div>
+    <h3>Data Science Intern</h3>
+    <p class="role-meta"><b>Cellstrat</b> · Bangalore · Jan '24</p> <!-- TODO: add end date -->
+  </div>
+  <img class="role-logo" src="assets/img/Cellstrat.png" height="26" alt="Cellstrat logo">
+</div>
 
 - Improved a **knowledge-mining chatbot** on AWS and built an **Amazon Titan** chatbot for an AWS workshop.
 - Evaluated **50+ voices** and **30–40 prompts** for PhoneCallGPT.
 
-### <img src="assets/img/EY.jpeg" height="22" alt=""> EY — Data Analytics Intern
-`Bangalore · Jun '23 – Jul '23`
+<div class="role">
+  <div>
+    <h3>Data Analytics Intern</h3>
+    <p class="role-meta"><b>EY</b> · Bangalore · Jun '23 – Jul '23</p>
+  </div>
+  <img class="role-logo" src="assets/img/EY.jpeg" height="26" alt="EY logo">
+</div>
 
 - Built a **3-layer LSTM** for **sales forecasting** with an **MAE of 0.0919**.
 
-### <img src="assets/img/SMST.png" height="18" alt=""> IIT Kharagpur — Computer Vision Research Intern
-`Follicular Stage Identification · May '23` <!-- TODO: add end date -->
+<div class="role">
+  <div>
+    <h3>Computer Vision Research Intern</h3>
+    <p class="role-meta"><b>IIT Kharagpur</b> · Follicular Stage Identification · May '23</p> <!-- TODO: add end date -->
+  </div>
+  <img class="role-logo" src="assets/img/SMST.png" height="26" alt="IIT Kharagpur logo">
+</div>
 
 - Classified **ovarian follicle stages** from 2D fluorescence images by measuring cell-layer thickness.
 

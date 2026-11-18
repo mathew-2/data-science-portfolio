@@ -1,0 +1,48 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* ---------- Experience entries ---------- */
+.role {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 28px 0 6px;
+}
+
+.role h3 {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.3;
+  color: #222;
+}
+
+.role-meta {
+  margin: 2px 0 0;
+  font-size: 13px;
+  color: #777;
+}
+
+.role-meta b {
+  color: #2e86de;
+  font-weight: 600;
+}
+
+.role-logo {
+  flex: 0 0 auto;
+  max-height: 26px;
+  max-width: 96px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.role + ul {
+  margin-top: 6px;
+}
+
+.role + ul li {
+  margin-bottom: 4px;
+}
