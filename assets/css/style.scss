@@ -5,10 +5,6 @@
 
 /* ---------- Experience entries ---------- */
 .role {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
   margin: 28px 0 6px;
 }
 
@@ -31,12 +27,23 @@
 }
 
 .role-logo {
-  flex: 0 0 auto;
-  max-height: 26px;
-  max-width: 96px;
+  display: block;
+  height: 28px;
   width: auto;
-  height: auto;
+  max-width: 110px;
   object-fit: contain;
+  object-position: left center;
+  margin: 8px 0 6px;
+}
+
+.role-logo--lg {
+  height: 36px;
+  max-width: 150px;
+}
+
+.role-logo--xl {
+  height: 48px;
+  max-width: 220px;
 }
 
 .role + ul {
@@ -45,4 +52,65 @@
 
 .role + ul li {
   margin-bottom: 4px;
+}
+
+/* ---------- General polish ---------- */
+h2 {
+  margin-top: 44px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #eaeaea;
+  font-size: 22px;
+}
+
+.links,
+.cta {
+  font-size: 15px;
+}
+
+.links a,
+.cta a {
+  font-weight: 600;
+}
+
+.cta {
+  margin-top: 44px;
+  padding-top: 16px;
+  border-top: 1px solid #eaeaea;
+  color: #555;
+}
+
+.stack img {
+  margin: 0 2px 4px 0;
+}
+
+.meta {
+  display: block;
+  margin: 2px 0 6px;
+  font-size: 13px;
+  color: #777;
+}
+
+/* ---------- Project grid ---------- */
+table.projects {
+  border: 0;
+  border-collapse: separate;
+  border-spacing: 12px;
+  margin: 0 -12px;
+}
+
+table.projects td {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+table.projects td img {
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+table.projects td a {
+  font-weight: 600;
 }
