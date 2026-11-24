@@ -1,0 +1,11 @@
+# Local preview only: adds the plugins GitHub Pages turns on automatically,
+# so README.md becomes the home page just like on the live site.
+plugins:
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-default-layout
+baseurl: ""
+exclude:
+  - _config_dev.yml
+  - .sass-cache

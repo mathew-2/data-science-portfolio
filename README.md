@@ -33,13 +33,16 @@ I'm a **Robotics / ML Engineer at Miko AI**, building pipelines that turn videos
 
 <div class="role">
   <h3>▸ Robotics / ML Engineer</h3>
-  <video class="role-video" src="https://github.com/user-attachments/assets/6dfaf8ec-908d-4e22-963d-27f1d77a30eb" controls muted playsinline width="100%"></video>
-  <p class="role-meta"><b>Miko</b> · Aug '25 – Present</p>
+  <img class="role-logo" src="assets/img/logos/miko.png" height="28" alt="Miko logo">
+  <p class="role-meta"><b>Miko AI</b> · Aug '25 – Present</p>
 </div>
 
 - Built **WiLoR**, **HaWoR**, **HaMeR** and **MediaPipe** pipelines that turn human videos into **grasp data for factory robots**.
 - Retargeted five-finger grasps to **UMI parallel-jaw gripper** poses, using **Kalman tracking** to filter out bystanders' hands.
 - Sped up HaWoR **3.5×** (from 151s to 43s per clip) and cut **GPU memory by 38%** through batching and model reuse.
+- Developing **faster Sim-to-Real rendering** for factory simulations using NVIDIA Cosmos, identifying approaches for **2× speedup** through benchmarking.
+
+<video class="role-video" src="https://github.com/user-attachments/assets/6dfaf8ec-908d-4e22-963d-27f1d77a30eb" controls muted playsinline width="100%"></video>
 
 ## Internships
 
