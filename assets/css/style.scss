@@ -73,10 +73,44 @@ h2 {
 }
 
 .cta {
-  margin-top: 44px;
-  padding-top: 16px;
-  border-top: 1px solid #eaeaea;
   color: #555;
+}
+
+.subtitle {
+  margin: -8px 0 8px;
+  font-size: 15px;
+  color: #666;
+}
+
+.wide-img {
+  display: block;
+  max-width: 100%;
+  margin: 8px 0 10px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+
+/* ---------- Skills table ---------- */
+table.skills {
+  border: 0;
+  margin-bottom: 8px;
+}
+
+table.skills td {
+  border: 0;
+  padding: 4px 12px 4px 0;
+  vertical-align: top;
+}
+
+table.skills td:first-child {
+  white-space: nowrap;
+  font-size: 14px;
+  color: #333;
+  padding-top: 6px;
+}
+
+table.skills img {
+  margin: 0 2px 4px 0;
 }
 
 .stack img {
