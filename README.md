@@ -1,12 +1,12 @@
 # Hi, I'm Mathew Manoj
 
-<p class="subtitle"><b>Data Science &amp; AI</b> · M.Tech Dual Degree, IIT Kharagpur</p>
+<p class="subtitle"><b>Robotics &amp; ML Engineer</b> at Miko · M.Tech Dual Degree, IIT Kharagpur</p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86DE&vCenter=true&width=460&lines=Applied+Scientist+Intern+%40+Amazon;LLMs+%E2%80%A2+Edge+AI+%E2%80%A2+NLP;Dual+Degree+%40+IIT+Kharagpur+(%2726)" alt="Applied Scientist Intern @ Amazon · LLMs · Edge AI · NLP">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86DE&vCenter=true&width=460&lines=Robotics+%2F+ML+Engineer+%40+Miko;Hand+Pose+%E2%80%A2+Grasping+%E2%80%A2+Robot+Learning;Ex-Applied+Scientist+Intern+%40+Amazon" alt="Robotics / ML Engineer @ Miko · Hand Pose · Grasping · Robot Learning">
 </p>
 
-I'm a dual-degree student at **IIT Kharagpur** who builds and ships ML systems, from on-device LLMs to chatbots and predictive models. Most recently I was an **Applied Scientist Intern at Amazon**, fine-tuning and distilling a 1.5B-parameter LLM to run on edge devices. Before that I worked on LLMs and speech at **Prodoc AI**, **Tech Mahindra Maker's Lab**, **Cellstrat** and **EY**.
+I'm a **Robotics / ML Engineer at Miko AI**, building pipelines that turn videos of people's hands into grasp data for factory robots. I've also completed a dual degree at **IIT Kharagpur**. Before Miko I was an **Applied Scientist Intern at Amazon**, fine-tuning and distilling a 1.5B-parameter LLM for edge devices, and I worked on LLMs and speech at **Prodoc AI**, **Tech Mahindra Maker's Lab**, **Cellstrat** and **EY**.
 
 <p class="links"><a href="https://www.linkedin.com/in/mathew-manoj">LinkedIn</a> · <a href="https://github.com/mathew-2">GitHub</a> · <a href="https://x.com/mattdraco13">X</a></p>
 
@@ -29,7 +29,18 @@ I'm a dual-degree student at **IIT Kharagpur** who builds and ships ML systems, 
   <img src="https://img.shields.io/badge/Git-F1F3F5?style=flat-square&logo=git&logoColor=2E86DE" alt="Git">
 </p>
 
-## Experience
+## Current Role
+
+<div class="role">
+  <h3>▸ Robotics / ML Engineer</h3>
+  <p class="role-meta"><b>Miko</b> · Aug '25 – Present</p>
+</div>
+
+- Built **WiLoR**, **HaWoR**, **HaMeR** and **MediaPipe** pipelines that turn human videos into **grasp data for factory robots**.
+- Retargeted five-finger grasps to **UMI parallel-jaw gripper** poses, using **Kalman tracking** to filter out bystanders' hands.
+- Sped up HaWoR **3.5×** (from 151s to 43s per clip) and cut **GPU memory by 38%** through batching and model reuse.
+
+## Internships
 
 <div class="role">
   <h3>▸ Applied Scientist Intern</h3>
