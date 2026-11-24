@@ -33,6 +33,7 @@ I'm a **Robotics / ML Engineer at Miko AI**, building pipelines that turn videos
 
 <div class="role">
   <h3>▸ Robotics / ML Engineer</h3>
+  <video class="role-video" src="https://github.com/user-attachments/assets/6dfaf8ec-908d-4e22-963d-27f1d77a30eb" controls muted playsinline width="100%"></video>
   <p class="role-meta"><b>Miko</b> · Aug '25 – Present</p>
 </div>
 
